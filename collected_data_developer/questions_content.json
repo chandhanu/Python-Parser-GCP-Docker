@@ -1,0 +1,617 @@
+[{
+    "endIndex": 1,
+    "sectionBreak": {
+        "sectionStyle": {
+            "columnSeparatorStyle": "NONE",
+            "contentDirection": "LEFT_TO_RIGHT",
+            "sectionType": "CONTINUOUS"
+        }
+    }
+}, {
+    "startIndex": 1,
+    "endIndex": 2,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 1,
+            "endIndex": 2,
+            "textRun": {
+                "content": "\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 2,
+    "endIndex": 178,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 2,
+            "endIndex": 178,
+            "textRun": {
+                "content": "Question 1: Consider a 10 kg object at rest. According to Newton's first law of motion (the law of inertia), the thing will remain at rest until an external force is applied. \n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 178,
+    "endIndex": 179,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 178,
+            "endIndex": 179,
+            "textRun": {
+                "content": "\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 179,
+    "endIndex": 338,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 179,
+            "endIndex": 338,
+            "textRun": {
+                "content": "If a force of 20 N is applied to the object, calculate the acceleration of the object. Use the following equation derived from Newton's second law of motion: \n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 338,
+    "endIndex": 339,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 338,
+            "endIndex": 339,
+            "textRun": {
+                "content": "\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 339,
+    "endIndex": 349,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 339,
+            "endIndex": 349,
+            "textRun": {
+                "content": "F = m * a\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 349,
+    "endIndex": 350,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 349,
+            "endIndex": 350,
+            "textRun": {
+                "content": "\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 350,
+    "endIndex": 358,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 350,
+            "endIndex": 358,
+            "textRun": {
+                "content": "where: \n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 358,
+    "endIndex": 384,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 358,
+            "endIndex": 384,
+            "textRun": {
+                "content": "- F is the force applied,\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 384,
+    "endIndex": 415,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 384,
+            "endIndex": 415,
+            "textRun": {
+                "content": "- m is the mass of the object,\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 415,
+    "endIndex": 440,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 415,
+            "endIndex": 440,
+            "textRun": {
+                "content": "- a is the acceleration.\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 440,
+    "endIndex": 441,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 440,
+            "endIndex": 441,
+            "textRun": {
+                "content": "\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 441,
+    "endIndex": 465,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 441,
+            "endIndex": 465,
+            "textRun": {
+                "content": "What is the value of a?\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 465,
+    "endIndex": 466,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 465,
+            "endIndex": 466,
+            "textRun": {
+                "content": "\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 466,
+    "endIndex": 467,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 466,
+            "endIndex": 467,
+            "textRun": {
+                "content": "\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 467,
+    "endIndex": 468,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 467,
+            "endIndex": 468,
+            "textRun": {
+                "content": "\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 468,
+    "endIndex": 469,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 468,
+            "endIndex": 469,
+            "textRun": {
+                "content": "\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 469,
+    "endIndex": 532,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 469,
+            "endIndex": 532,
+            "textRun": {
+                "content": "Question 2: Describe the big bang theory in a short paragraph.\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 532,
+    "endIndex": 533,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 532,
+            "endIndex": 533,
+            "textRun": {
+                "content": "\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 533,
+    "endIndex": 600,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 533,
+            "endIndex": 600,
+            "textRun": {
+                "content": "Question 3: What is the average of the first five multiples of 12?\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 600,
+    "endIndex": 601,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 600,
+            "endIndex": 601,
+            "textRun": {
+                "content": "\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 601,
+    "endIndex": 604,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 601,
+            "endIndex": 604,
+            "textRun": {
+                "content": "36\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "indentFirstLine": {
+                "magnitude": 18,
+                "unit": "PT"
+            },
+            "indentStart": {
+                "magnitude": 36,
+                "unit": "PT"
+            }
+        },
+        "bullet": {
+            "listId": "kix.pfbki39q8608",
+            "textStyle": {
+                "underline": false
+            }
+        }
+    }
+}, {
+    "startIndex": 604,
+    "endIndex": 607,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 604,
+            "endIndex": 607,
+            "textRun": {
+                "content": "38\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "indentFirstLine": {
+                "magnitude": 18,
+                "unit": "PT"
+            },
+            "indentStart": {
+                "magnitude": 36,
+                "unit": "PT"
+            }
+        },
+        "bullet": {
+            "listId": "kix.pfbki39q8608",
+            "textStyle": {
+                "underline": false
+            }
+        }
+    }
+}, {
+    "startIndex": 607,
+    "endIndex": 610,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 607,
+            "endIndex": 610,
+            "textRun": {
+                "content": "40\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "indentFirstLine": {
+                "magnitude": 18,
+                "unit": "PT"
+            },
+            "indentStart": {
+                "magnitude": 36,
+                "unit": "PT"
+            }
+        },
+        "bullet": {
+            "listId": "kix.pfbki39q8608",
+            "textStyle": {
+                "underline": false
+            }
+        }
+    }
+}, {
+    "startIndex": 610,
+    "endIndex": 613,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 610,
+            "endIndex": 613,
+            "textRun": {
+                "content": "42\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT",
+            "indentFirstLine": {
+                "magnitude": 18,
+                "unit": "PT"
+            },
+            "indentStart": {
+                "magnitude": 36,
+                "unit": "PT"
+            }
+        },
+        "bullet": {
+            "listId": "kix.pfbki39q8608",
+            "textStyle": {
+                "underline": false
+            }
+        }
+    }
+}, {
+    "startIndex": 613,
+    "endIndex": 614,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 613,
+            "endIndex": 614,
+            "textRun": {
+                "content": "\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 614,
+    "endIndex": 650,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 614,
+            "endIndex": 650,
+            "textRun": {
+                "content": "Question 4: Describe about the pic.\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 650,
+    "endIndex": 653,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 650,
+            "endIndex": 651,
+            "inlineObjectElement": {
+                "inlineObjectId": "kix.xuz0nd3k8x0n",
+                "textStyle": {}
+            }
+        }, {
+            "startIndex": 651,
+            "endIndex": 653,
+            "textRun": {
+                "content": " \n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 653,
+    "endIndex": 654,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 653,
+            "endIndex": 654,
+            "textRun": {
+                "content": "\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 654,
+    "endIndex": 674,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 654,
+            "endIndex": 674,
+            "textRun": {
+                "content": "Question 5: Yes/No?\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 674,
+    "endIndex": 675,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 674,
+            "endIndex": 675,
+            "textRun": {
+                "content": "\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}, {
+    "startIndex": 675,
+    "endIndex": 676,
+    "paragraph": {
+        "elements": [{
+            "startIndex": 675,
+            "endIndex": 676,
+            "textRun": {
+                "content": "\n",
+                "textStyle": {}
+            }
+        }],
+        "paragraphStyle": {
+            "namedStyleType": "NORMAL_TEXT",
+            "direction": "LEFT_TO_RIGHT"
+        }
+    }
+}]
